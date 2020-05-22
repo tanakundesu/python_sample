@@ -1,0 +1,4 @@
+$concierge_name: $user_nameさん。ゲームってやっぱりおもしろいですよね！
+
+
+
